@@ -1,9 +1,8 @@
 <h2 align="left">Hi 👋! My name is Bhavy Patel and I'm a Fullstack Developer.</h2>
 
-- 👷🏻‍♂️ Right now, I am making an <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  /> **Spring** + <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> **React.JS** e-commerce project
 - 👨‍💻 All of my projects are available at [https://github.com/bhavy278/](https://github.com/bhavy278/)
 
-- 💬 Ask me about **java, spring, reactjs, nextjs, nodejs, expressjs, sql, mongodb**
+- 💬 Ask me about **java, spring-boot, reactjs, nextjs, nodejs, expressjs, sql, mongodb**
 
 - 📫 How to reach me **<a href="mailto:bhavy0606@gmail.com">bhavy0606@gmail.com</a>**
 
