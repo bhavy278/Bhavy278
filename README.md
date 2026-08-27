@@ -1,150 +1,122 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Bhavy+Patel+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer+%7C+M.S.+ASU+%2726;RAG+Pipelines+%E2%80%A2+Cloud+ML+%E2%80%A2+Deployed+Web+Apps" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavy278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bhavy0606@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/bhavy0606" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
+# Hi, I'm Bhavy Patel 👋
+
+**Full-Stack Software Engineer** | Java · Spring Boot · React · AWS | M.S. IT @ ASU (GPA 3.9)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavy278/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavy0606@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bhavy0606)
+
+</div>
 
 ---
 
-Software engineer specializing in **AI/ML systems**, **full-stack development**, and **cloud architectures**. I build production-grade RAG pipelines, serverless AWS stacks, and deployed web applications with modern TypeScript and Python. M.S. Information Technology @ ASU (GPA 3.9/4.0) — open to full-time SDE / MLE roles.
+Full-stack software engineer specializing in **Java/Spring Boot backend development**, with real production experience across **React/TypeScript frontends**, **relational databases**, and **AWS cloud infrastructure**. I'm also extending that foundation with applied AI integration — RAG pipelines and LLM APIs layered on top of solid backend systems, not replacing them.
+
+M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to **Software Development Engineer I / Software Engineer (Full-Stack or Backend)** roles starting Summer/Fall 2026 — sponsorship required.
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Stack | What it does |
-|:--------|:------|:-------------|
-| 🧠 **[PaperMind AI](https://github.com/bhavy278/Paper_Mind_AI)** | RAG · FastAPI · React 19 · ChromaDB · PostgreSQL · Docker · Terraform / AWS | Production RAG portal for scientific literature — hybrid BM25 + vector search, BGE cross-encoder reranking, SSE token streaming, interactive PDF citation inspector, automated Faithfulness/Relevance evaluation dashboard, GitHub Actions CI/CD |
-| 📄 **[Signalyze](https://github.com/bhavy278/signalyze)** &nbsp;[↗ Live](https://signalyze.netlify.app) | Next.js 15 · TypeScript · Express · MySQL · OpenAI GPT-4.1 | AI-powered legal document analyzer — extracts financials, critical dates, obligations, and risks from uploaded PDFs/DOCX; JWT auth, multi-version analysis history, deployed on Render + Netlify |
-| 🏥 **[Health Monitoring on AWS](https://github.com/bhavy278/health-monitoring-aws)** | AWS EMR · SageMaker · XGBoost · Lambda · SNS · Athena | End-to-end heart attack prediction system — Spark on EMR for preprocessing, SageMaker XGBoost training, serverless Lambda + SNS real-time alerting, Athena for analytics |
-| 🎬 **[Netflix Rec. System on SageMaker](https://github.com/bhavy278/netflix-aws-sagemaker)** | AWS SageMaker · XGBoost · Jupyter · MLOps | Netflix-scale recommendation system — XGBoost regression + classification, 5-phase MLOps pipeline covering ingestion → training → evaluation → deployment |
-| 🔬 **[PubMed NLP NER](https://github.com/bhavy278/nlp-pubmed-obesity-ner)** | BioBERT · Python · Regex · NLP | Hybrid BioBERT + Regex pipeline extracting dose-response thresholds from PubMed childhood obesity literature (2020–2025) |
-| 📊 **[Tech Job Market Intelligence](https://github.com/bhavy278/tech-job-market-intelligence)** | Python · Pandas · NLP | Labor market intelligence platform analyzing tech job skills, salary distributions, and demand trends across thousands of postings |
+|---|---|---|
+| 🧾 **[Expense Tracker](https://github.com/bhavy278/expense-tracking-app)** | Java 21 · Spring Boot 3 · Spring Data JPA/Hibernate · PostgreSQL · React 18 · TypeScript | Full-stack expense tracking app — REST API backend with 30/30 passing automated tests (JUnit 5, Mockito, MockMvc), React/TypeScript frontend with Vite and Tailwind CSS |
+| 📄 **[Signalyze](https://github.com/bhavy278/signalyze)** [↗ Live](https://signalyze.netlify.app) | Next.js 15 · TypeScript · Express.js · MySQL · OpenAI GPT-4.1 | Full-stack AI document analysis platform — extracts financials, critical dates, obligations, and risks from uploaded PDFs/DOCX; JWT auth, multi-version analysis history, deployed on Render + Netlify |
+| 🛒 **[SB E-Commerce REST API](https://github.com/bhavy278/sb-ecommerce-project)** | Java · Spring Boot · Spring Security · JWT · MySQL | Production-style e-commerce REST API — role-based access control, JWT auth, full cart/order lifecycle, paginated product/category endpoints |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="35" height="35" title="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35" title="C++" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**AI / ML & Data**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" height="35" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="35" height="35" title="scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" height="35" title="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="35" height="35" title="Apache Spark" />
-  &nbsp;<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white" height="28" title="XGBoost" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="28" title="LangChain" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28" title="HuggingFace / BioBERT / SentenceTransformers" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="28" title="OpenAI API" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="28" title="Tableau" />
-</p>
+**Backend**
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<br><br>
+`Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `Microservices`
+
+</td>
+<td valign="top" width="50%">
 
 **Frontend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" title="React 19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" height="35" title="Next.js 15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35" height="35" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="35" height="35" title="Vite" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="35" height="35" title="Material UI (MUI)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" height="35" title="SCSS / SASS" />
-  &nbsp;<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" height="28" title="Framer Motion" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" height="28" title="React Query" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" height="28" title="Axios" />
-</p>
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br><br>
+`JavaScript (ES6+)` `Redux` `HTML5` `CSS3`
 
-**Backend & APIs**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" height="35" title="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35" title="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35" title="Express.js" />
-  &nbsp;<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" height="28" title="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="28" title="JWT Auth" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0096FF?style=flat&logoColor=white" height="28" title="REST APIs" />
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35" height="35" title="Terraform (IaC)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35" height="35" title="GitHub Actions CI/CD" />
-  &nbsp;<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white" height="28" title="AWS SageMaker" />
-  <img src="https://img.shields.io/badge/AWS%20EMR-FF9900?style=flat&logo=amazonaws&logoColor=white" height="28" title="AWS EMR" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" height="28" title="AWS Lambda" />
-  <img src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white" height="28" title="AWS ECS Fargate" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" height="28" title="Render" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height="28" title="Netlify" />
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 **Databases**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35" height="35" title="MS SQL Server" />
-  &nbsp;<img src="https://img.shields.io/badge/ChromaDB-FF0054?style=flat&logoColor=white" height="28" title="ChromaDB (Vector DB)" />
-</p>
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" title="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35" title="Postman" />
-</p>
+</td>
+<td valign="top" width="50%">
+
+**Cloud & DevOps**
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<br><br>
+`EC2` `S3` `RDS` `Lambda` `IAM` `Maven`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Testing & Tools**
+<br>
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br><br>
+`Mockito` `MockMvc` `JWT` `OAuth`
+
+</td>
+<td valign="top" width="50%">
+
+**AI Integration**
+<br>
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<br><br>
+`RAG` `Vector DBs (pgvector, ChromaDB)`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavy278&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="155" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=bhavy278&theme=tokyonight&hide_border=true" height="155" alt="streak stats" />
-</div>
+![streak stats](https://streak-stats.demolab.com?user=bhavy278&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavy278&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="top languages" />
-</div>
 
 ---
 
 ## 📬 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bhavy278/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="mailto:bhavy0606@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/bhavy0606" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank" />
-  </a>
-</div>
+[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bhavy278/)
+[![gmail](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:bhavy0606@gmail.com)
+[![hackerrank](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/bhavy0606)
