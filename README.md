@@ -2,7 +2,7 @@
 
 # Hi, I'm Bhavy Patel 👋
 
-**Full-Stack Software Engineer** | Java · Spring Boot · React · AWS | M.S. IT @ ASU (GPA 3.9)
+**Full-Stack Software Engineer** | Java · Spring Boot · Kafka · React · AWS | M.S. IT @ ASU (GPA 3.9)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavy278/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavy0606@gmail.com)
@@ -12,7 +12,7 @@
 
 ---
 
-Full-stack software engineer specializing in **Java/Spring Boot backend development**, with real production experience across **React/TypeScript frontends**, **relational databases**, and **AWS cloud infrastructure**. I'm also extending that foundation with applied AI integration — RAG pipelines and LLM APIs layered on top of solid backend systems, not replacing them.
+Full-stack software engineer specializing in **Java/Spring Boot backend development** and **event-driven microservices**, with real production experience across **React/TypeScript frontends**, **relational and NoSQL databases**, and **AWS cloud infrastructure**. I'm also extending that foundation with applied AI integration — RAG pipelines and LLM APIs layered on top of solid backend systems, not replacing them.
 
 M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to **Software Development Engineer I / Software Engineer (Full-Stack or Backend)** roles starting Summer/Fall 2026 — sponsorship required.
 
@@ -22,9 +22,12 @@ M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to *
 
 | Project | Stack | What it does |
 |---|---|---|
+| 🧠 **[Signalyze Stream](https://github.com/bhavy278/signalyze-stream)** · [▶ Launch video](https://youtu.be/XnFC8x3Rc3E) | Java 21 · Spring Boot · Kafka · MongoDB · Redis · OpenAI · Next.js · Docker · Terraform | Event-driven AI document-intelligence platform — five Spring Boot microservices communicating asynchronously over Kafka. Structured contract analysis (parties, key terms, risk-flagged clauses) plus grounded RAG Q&A, both streamed live over SSE. Correlation IDs, Prometheus + Grafana, an API gateway, transactional outbox, Resilience4j, and GitHub Actions CI; fully containerized and deployable to AWS via Terraform |
 | 🧾 **[Expense Tracker](https://github.com/bhavy278/expense-tracking-app)** | Java 21 · Spring Boot 3 · Spring Data JPA/Hibernate · PostgreSQL · React 18 · TypeScript | Full-stack expense tracking app — REST API backend with 30/30 passing automated tests (JUnit 5, Mockito, MockMvc), React/TypeScript frontend with Vite and Tailwind CSS |
 | 📄 **[Signalyze](https://github.com/bhavy278/signalyze)** [↗ Live](https://signalyze.netlify.app) | Next.js 15 · TypeScript · Express.js · MySQL · OpenAI GPT-4.1 | Full-stack AI document analysis platform — extracts financials, critical dates, obligations, and risks from uploaded PDFs/DOCX; JWT auth, multi-version analysis history, deployed on Render + Netlify |
 | 🛒 **[SB E-Commerce REST API](https://github.com/bhavy278/sb-ecommerce-project)** | Java · Spring Boot · Spring Security · JWT · MySQL | Production-style e-commerce REST API — role-based access control, JWT auth, full cart/order lifecycle, paginated product/category endpoints |
+
+**Other builds:** [animated-portfolio](https://github.com/bhavy278/animated-portfolio) · [meraki-lounge](https://github.com/bhavy278/meraki-lounge) · [eg-design-studio](https://github.com/bhavy278/eg-design-studio) · [vocal](https://github.com/bhavy278/vocal) · [todo-app-backend](https://github.com/bhavy278/todo-app-backend)
 
 ---
 
@@ -38,10 +41,11 @@ M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to *
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 <br><br>
-`Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `Microservices`
+`Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `Microservices` `Event-Driven` `Resilience4j`
 
 </td>
 <td valign="top" width="50%">
@@ -65,6 +69,7 @@ M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to *
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
@@ -74,10 +79,11 @@ M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to *
 <br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 <br><br>
-`EC2` `S3` `RDS` `Lambda` `IAM` `Maven`
+`EC2` `S3` `RDS` `Lambda` `IAM` `Maven` `Prometheus` `Grafana`
 
 </td>
 </tr>
@@ -90,7 +96,7 @@ M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to *
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <br><br>
-`Mockito` `MockMvc` `JWT` `OAuth`
+`Mockito` `MockMvc` `Testcontainers` `JaCoCo` `JWT` `OAuth`
 
 </td>
 <td valign="top" width="50%">
@@ -100,7 +106,7 @@ M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to *
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 <br><br>
-`RAG` `Vector DBs (pgvector, ChromaDB)`
+`RAG` `Vector DBs (pgvector, ChromaDB)` `Streaming (SSE)`
 
 </td>
 </tr>
@@ -111,7 +117,6 @@ M.S. Information Technology @ Arizona State University (GPA: 3.9/4.0). Open to *
 ## 📊 GitHub Stats
 
 ![streak stats](https://streak-stats.demolab.com?user=bhavy278&theme=tokyonight&hide_border=true)
-
 
 ---
 
